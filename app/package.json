@@ -1,0 +1,12 @@
+{
+  "name": "serv00-live-demo",
+  "version": "1.0.0",
+  "description": "Live node.js proof app for Serv00 Hosting",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
